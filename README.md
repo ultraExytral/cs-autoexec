@@ -1,1 +1,1 @@
-"# cs-autoexec" 
+My autoexec for CS.
